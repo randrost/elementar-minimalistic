@@ -1,6 +1,6 @@
 # Elementar RT Minimalistic
 
-A minimal Angular 20 starter cut down from [Elementar RT Admin](https://github.com/randrost/elementar-rt-demo).
+A minimal Angular 20 starter cut down from [Elementar RT Admin](https://github.com/randrost/elementar-admin).
 Keeps only the app shell (header, sidebar, page container) and the auth flow —
 everything else is stripped so you can build your own screens on a clean base.
 
